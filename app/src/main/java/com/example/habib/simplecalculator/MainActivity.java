@@ -43,6 +43,9 @@ public void onClick1(View v){
     textView2.setText(textView2.getText().toString()+string);
     //textView2.setText(arrayList.toString());
 }
+    public void add(){
+        
+    }
 public void onClick(View v){
     TextView textView1=(TextView)findViewById(R.id.textView2);
     double calc=0;
